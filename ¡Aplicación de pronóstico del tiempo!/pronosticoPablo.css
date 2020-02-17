@@ -1,0 +1,19 @@
+.icon{
+    width: 200px;
+    height: 194px;
+    text-align: center;
+    margin-left:570px ;
+}
+.boton{
+    width: 100px;
+    height: 24px;
+    background-color: greenyellow;
+}
+.box´s{
+    margin-top: 40px;
+    margin-left:550px ;  
+}
+#landing_weather{
+    text-align: center;
+    margin-top: 20px;
+}
